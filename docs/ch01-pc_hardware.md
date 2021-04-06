@@ -1,0 +1,17 @@
+---
+id: ch01-pc_hardware
+title: Introduction to Personal Computer Hardware
+sidebar_label: PC Hardware
+slug: /ch01-pc_hardware
+---
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed tortor justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis imperdiet aliquet dui, non vulputate tortor sollicitudin non. Nullam porttitor felis in odio ornare varius. Mauris massa massa, blandit nec porta non, elementum non turpis. Donec et tortor non justo scelerisque lobortis. Ut a molestie augue. Integer urna leo, ultricies nec eros in, ullamcorper fringilla urna. Pellentesque ultrices mattis nisi vel tincidunt.
+
+Donec aliquam at velit a viverra. Donec ac quam posuere, tempor leo eu, fringilla erat. Donec id gravida mauris, at blandit lacus. Aenean velit orci, imperdiet non nibh in, finibus mollis ante. Sed maximus ligula ante, et fringilla nunc fermentum quis. Phasellus at ex pulvinar, mollis massa non, cursus odio. Proin non iaculis ante. In in mauris elementum, tristique elit a, dignissim est.
+
+Suspendisse volutpat blandit ante, at ultrices tortor laoreet id. In purus magna, imperdiet nec faucibus at, ornare in lectus. Quisque sit amet lacus metus. Nullam convallis purus mi, at pulvinar est pretium eget. Ut quis erat et nibh rhoncus malesuada finibus eu nisi. Donec sagittis sit amet enim sed fermentum. Morbi felis dolor, molestie a magna vel, accumsan egestas odio. Nullam lobortis pharetra tempor. Proin enim purus, lobortis in ante ac, tempor congue dolor. Nulla feugiat suscipit ipsum sit amet auctor. Cras sit amet laoreet lorem, sit amet lobortis risus. Ut rhoncus erat vel tellus pharetra, at commodo ipsum tempus. Vivamus eget interdum enim.
+
+Donec tristique odio sed erat suscipit, vitae faucibus elit consequat. Curabitur vehicula, elit vel gravida aliquam, enim elit rhoncus lacus, nec molestie sapien risus a neque. Donec vel ornare dolor. Nulla tempus venenatis metus eget gravida. Donec iaculis eu purus a pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi at tempor massa, sed dapibus justo. Mauris metus dolor, sollicitudin id justo ac, suscipit sagittis ligula. Ut bibendum metus nec enim consectetur mattis. Suspendisse augue mi, luctus eget nunc non, fermentum venenatis nisi. Nulla nec efficitur urna. Etiam tempus nulla eu sollicitudin posuere. Pellentesque ornare felis sollicitudin pharetra consectetur. Etiam sollicitudin eros in massa ultricies aliquam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed sit amet leo porttitor, semper justo id, tincidunt ligula.
+
+Nam sit amet mi a urna vestibulum pharetra. Aliquam aliquet purus nec lacinia fermentum. Curabitur fermentum lorem enim, sit amet pulvinar quam convallis ut. Nunc orci nisi, accumsan sed ex nec, tincidunt tristique nibh. Ut ut tincidunt sem, sed lacinia risus. Maecenas sed pharetra diam. Integer ullamcorper rutrum neque sit amet porta. Quisque tincidunt nibh ac ligula iaculis malesuada. Morbi id dui dolor. Sed vulputate diam vehicula mauris vulputate ultricies. Pellentesque ac eros leo. Ut tristique urna vel sagittis mollis. Duis sed imperdiet nibh, eu aliquet elit. Suspendisse consequat, urna sit amet malesuada porttitor, sapien urna tristique eros, sit amet mollis ante dui sit amet nibh. Sed lacus nulla, convallis at lacus a, lobortis faucibus diam. Donec non dolor orci. 
